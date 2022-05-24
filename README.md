@@ -1,1 +1,1 @@
-# Computational-Drug-Discovery
+# Computational Drug Discovery
